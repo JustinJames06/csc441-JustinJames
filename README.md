@@ -23,3 +23,11 @@ I want to learn how to use skills that I've learned in other computer science cl
 ## Notes to future me
 Keep pushing
 
+
+## Terminal Commands I learned
+- Ls
+- pwd
+- mkdir
+- cd 
+
+
