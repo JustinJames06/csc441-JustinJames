@@ -1,9 +1,10 @@
 # CSC 441 Justin James
 
 ## About me
-- Major: Computer Science
-- Year: Junior
-- What I want to Build: Still Deciding
+
+* Major: Computer Science
+* Year: Junior
+* What I want to Build: Still Deciding
 
 
 
@@ -12,22 +13,33 @@
 I want to learn how to use skills that I've learned in other computer science classes in practical real life scenarios.
 
 
+
 # My Setup
 
-- Computer: Windows
-- GitHub Username: JustinJames06
-- Git installed: no
+* Computer: Windows
+* GitHub Username: JustinJames06
+* Git installed: no
 
 
 
 ## Notes to future me
+
 Keep pushing
 
 
-## Terminal Commands I learned
-- Ls
-- pwd
-- mkdir
-- cd 
 
+## Terminal Commands I learned
+
+* Ls
+* pwd
+* mkdir
+* cd
+
+
+
+\## Goals For This Class
+
+* Make an android app
+* Make a website
+* Learn GitHub Well
 
