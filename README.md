@@ -37,7 +37,7 @@ Keep pushing
 
 
 
-\## Goals For This Class
+\##Goals For This Class
 
 * Make an android app
 * Make a website
