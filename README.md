@@ -37,23 +37,23 @@ Keep pushing
 
 
 
-\## Goals For This Class
+## Goals For This Class
 
-\- Make an android app
+- Make an android app
 
-\- Make a website
+- Make a website
 
-\- Learn GitHub Well
+- Learn GitHub Well
 
 
 
-\## Tools I have installed
+## Tools I have installed
 
-\- Git
+- Git
 
-\- IntelliJ IDEA Community Edition
+- IntelliJ IDEA Community Edition
 
-\- Android Studio
+- Android Studio
 
 \- VS Code
 
