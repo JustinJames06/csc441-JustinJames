@@ -45,3 +45,15 @@ Keep pushing
 
 \- Learn GitHub Well
 
+
+
+\## Tools I have installed
+
+\- Git
+
+\- IntelliJ IDEA Community Edition
+
+\- Android Studio
+
+\- VS Code
+
