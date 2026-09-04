@@ -39,21 +39,23 @@ Keep pushing
 
 ## Goals For This Class
 
-- Make an android app
-
-- Make a website
-
-- Learn GitHub Well
+* Make an android app
+* Make a website
+* Learn GitHub Well
 
 
 
 ## Tools I have installed
 
-- Git
-
-- IntelliJ IDEA Community Edition
-
-- Android Studio
+* Git
+* IntelliJ IDEA Community Edition
+* Android Studio
 
 \- VS Code
+
+
+
+\##Status
+
+Learning Git and feeling good about it.
 
