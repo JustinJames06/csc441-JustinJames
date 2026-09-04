@@ -2,9 +2,9 @@
 
 ## About me
 
-* Major: Computer Science
-* Year: Junior
-* What I want to Build: Still Deciding
+- Major: Computer Science
+- Year: Junior
+- What I want to Build: Still Deciding
 
 
 
@@ -16,9 +16,9 @@ I want to learn how to use skills that I've learned in other computer science cl
 
 # My Setup
 
-* Computer: Windows
-* GitHub Username: JustinJames06
-* Git installed: no
+- Computer: Windows
+- GitHub Username: JustinJames06
+- Git installed: yes
 
 
 
@@ -30,16 +30,17 @@ Keep pushing
 
 ## Terminal Commands I learned
 
-* Ls
-* pwd
-* mkdir
-* cd
+- Ls
+- pwd
+- mkdir
+- cd
 
 
 
-\##Goals For This Class
+##Goals For This Class
 
-* Make an android app
-* Make a website
-* Learn GitHub Well
+- Make an android app
+- Make a website
+- Learn GitHub Well
+
 
