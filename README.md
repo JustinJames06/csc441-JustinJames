@@ -57,5 +57,5 @@ Keep pushing
 
 \## Status
 
-Working through branches, slightly confused
+Learning git and feeling good
 
