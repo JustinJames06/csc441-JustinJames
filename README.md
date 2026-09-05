@@ -51,11 +51,9 @@ Keep pushing
 * IntelliJ IDEA Community Edition
 * Android Studio
 
-\- VS Code
+- VS Code
 
 
 
-\## Status
-
-Learning git and working through branches and feel confused
-
+## Status
+Learning Git. Branches make sense now; merge conflicts are next.
